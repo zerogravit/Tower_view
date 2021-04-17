@@ -1,0 +1,93 @@
+body {
+    margin: 0pt;
+}
+
+
+
+nav {
+    display: flex;
+    background-color: white;
+    width: 101.3%;
+    position: fixed;
+    
+    
+}
+.bar {
+    display: flex;
+    list-style: none;
+    margin-left: 5rem;
+    font-family: 'Exo', sans-serif;
+    font-weight: bold;
+    
+    
+}
+.bar>li{
+    margin-left: 2.5rem;
+}
+.fig {
+    margin-top: -10px;
+}
+.arch {
+    padding-top: -10rem;
+    font-size: 0.7rem;
+    font-family: 'Exo', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.25rem;
+}
+.ara{
+    height: 0.5rem;
+    letter-spacing: 0.4rem;
+}
+.get {
+    margin-left:9rem;
+    border: 2px solid black;
+    width: 9rem;
+    height: 2rem;
+    margin-top: 0.5rem;
+    padding: 0, 0;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    font-family: 'Exo', sans-serif;
+    font-weight: bold;
+
+    
+}
+.sur{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    height: 45rem;
+    margin: 0pt;
+    
+}
+.diii {
+    text-align: center;
+    padding-top: 20rem;
+}
+.dii{
+    height: 50rem;
+    width: 100%;
+}
+.we {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+}
+.lor{
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 1rem ;
+}
+.see{
+    border: 2px solid white;
+    color: white;
+    display: inline-block;
+    width: 18rem;
+    height: 3rem;
+    padding-top: 1.5rem;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.2rem
+    ;
+}
